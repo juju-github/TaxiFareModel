@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/justrahl/code/juju-github/TaxiFareModel/mlruns/1/542fcf89e21d4184ba0924a3dd6c6caa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 542fcf89e21d4184ba0924a3dd6c6caa
+run_uuid: 542fcf89e21d4184ba0924a3dd6c6caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653403483705
+status: 1
+tags: []
+user_id: unknown
